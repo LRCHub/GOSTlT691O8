@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Wait and Bleed",
+  "base_artist": "Slipknot",
+  "createdAt": "2026-02-17T16:58:04.491805Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wait and Bleed (Live At Download Festival 2009)",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/01_Wait_and_Bleed_(Live_At_Download_Festival_2009)_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wait and Bleed",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/02_Wait_and_Bleed_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wait and Bleed",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/03_Wait_and_Bleed_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wait And Bleed - Demo",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/04_Wait_And_Bleed_-_Demo_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wait and Bleed (Demo)",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/05_Wait_and_Bleed_(Demo)_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wait And Bleed - Terry Date Mix",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/06_Wait_And_Bleed_-_Terry_Date_Mix_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wait and Bleed (Terry Date Mix)",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/07_Wait_and_Bleed_(Terry_Date_Mix)_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wait and Bleed (Live at the Download Festival, 2009)",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/08_Wait_and_Bleed_(Live_at_the_Download_Festival,_2009)_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wait and Bleed - Live in London, 2002",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/09_Wait_and_Bleed_-_Live_in_London,_2002_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wait and Bleed",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/10_Wait_and_Bleed_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wait And Bleed",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/11_Wait_And_Bleed_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wait And Bleed",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/12_Wait_And_Bleed_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wait And Bleed",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/13_Wait_And_Bleed_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wait and Bleed",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/14_Wait_and_Bleed_Slipknot.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wait And Bleed",
+      "artist": "Slipknot",
+      "has_synced": false,
+      "path": "select/pl_01_Wait_And_Bleed_Slipknot.txt"
+    }
+  ]
+}
